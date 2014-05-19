@@ -4,7 +4,7 @@
   "description": "A really fast way to run a callback in the future",
   "main": "fast-future.js",
   "scripts": {
-    "test": "node benchmark.js 10000"
+    "test": "tape test.js"
   },
   "author": "David Björklund <david.bjorklund@gmail.com>",
   "license": "MIT",
