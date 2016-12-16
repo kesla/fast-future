@@ -15,5 +15,4 @@ test('extra process.nextTick and then fastFuture', function (t) {
       }
 
   process.nextTick(work)
-
 })
