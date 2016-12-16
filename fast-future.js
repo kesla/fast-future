@@ -1,4 +1,4 @@
-var LIMIT = process.maxTickDepth / 2
+var LIMIT = process.maxTickDepth / 2 || 1000
   , factory = function () {
       var count = 0
       return function (callback) {
