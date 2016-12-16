@@ -1,6 +1,6 @@
 {
   "name": "fast-future",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A really fast way to run a callback in the future",
   "main": "fast-future.js",
   "scripts": {
